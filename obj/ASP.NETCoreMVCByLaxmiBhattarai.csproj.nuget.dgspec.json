@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\ASP.NETCoreMVCByLaxmiBhattarai.csproj": {}
+    "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\ASP.NETCoreMVCByLaxmiBhattarai.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\ASP.NETCoreMVCByLaxmiBhattarai.csproj": {
+    "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\ASP.NETCoreMVCByLaxmiBhattarai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\ASP.NETCoreMVCByLaxmiBhattarai.csproj",
+        "projectUniqueName": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\ASP.NETCoreMVCByLaxmiBhattarai.csproj",
         "projectName": "ASP.NETCoreMVCByLaxmiBhattarai",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\ASP.NETCoreMVCByLaxmiBhattarai.csproj",
+        "projectPath": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\ASP.NETCoreMVCByLaxmiBhattarai.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\obj\\",
+        "outputPath": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"

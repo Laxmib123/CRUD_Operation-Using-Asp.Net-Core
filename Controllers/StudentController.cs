@@ -1,9 +1,11 @@
 ﻿using ASP.NETCoreMVCByLaxmiBhattarai.DAO;
 using ASP.NETCoreMVCByLaxmiBhattarai.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ASP.NETCoreMVCByLaxmiBhattarai.Controllers
 {
+    [Authorize]
     public class StudentController : Controller
     {
         public MyAppDBContext _context;

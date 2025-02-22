@@ -1,14 +1,20 @@
 ﻿using ASP.NETCoreMVCByLaxmiBhattarai.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ASP.NETCoreMVCByLaxmiBhattarai.DAO
 {
-    public class MyAppDBContext : DbContext
+    public class MyAppDBContext : IdentityDbContext
     {
-        public MyAppDBContext(DbContextOptions options) : base(options)
+		public DbSet<Student> Students { get; set; }
+		public MyAppDBContext(DbContextOptions options) : base(options)
         {
 
         }
-        public DbSet<Student> Students { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
+
     }
 }

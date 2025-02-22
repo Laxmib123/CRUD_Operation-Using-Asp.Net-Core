@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\",
+  "WorkspaceRootPath": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|c:\\users\\user\\source\\repos\\asp.netcoremvcbylaxmibhattarai\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|d:\\broadway\\crud_operation-using-asp.net-core\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|c:\\users\\user\\source\\repos\\asp.netcoremvcbylaxmibhattarai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|c:\\users\\user\\source\\repos\\asp.netcoremvcbylaxmibhattarai\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|solutionrelative:controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|d:\\broadway\\crud_operation-using-asp.net-core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EC9E7-33EB-422F-B169-5B7F9F3E9806}|ASP.NETCoreMVCByLaxmiBhattarai.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:17:29.207Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:48:22.306Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\BroadWay\\CRUD_Operation-Using-Asp.Net-Core\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:27:10.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\Controllers\\Login.cs",
-              "RelativeDocumentMoniker": "Controllers\\Login.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ASP.NETCoreMVCByLaxmiBhattarai\\Controllers\\Login.cs",
-              "RelativeToolTip": "Controllers\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:17:16.342Z"
+              "WhenOpened": "2025-02-22T07:46:25.994Z",
+              "EditorCaption": ""
             }
           ]
         }
